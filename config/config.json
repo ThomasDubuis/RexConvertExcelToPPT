@@ -1,0 +1,277 @@
+{
+  "excelFile": "../Input/XX - DATA 12- Aout 2022.xlsx",
+  "pptFile": "../Input/Résultats PO - 00 RRF MOIS ANNEE.pptx",
+  "outputFolder": "../Output/",
+  "excelSuffix": " - Janvier 2025 MOISANNEE",
+  "config": [
+    {
+      "title": "Synthèse :",
+      "slideMonth": 2,
+      "slideYTD": 3,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 235,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Chiffres d'affaires en Prise d'ordre (K€) :",
+      "slideMonth": 4,
+      "slideYTD": 5,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Chiffres d'affaires Vente & Nouveau Client (K€) :",
+      "slideMonth": 6,
+      "slideYTD": 7,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Répartition CA Vente en Prise d'ordre (K€) :",
+      "slideMonth": 8,
+      "slideYTD": 9,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "UNITS Core Business :",
+      "slideMonth": 10,
+      "slideYTD": 11,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+
+
+
+
+
+    {
+      "title": "Nombre de bons de commande :",
+      "slideMonth": 12,
+      "slideYTD": 13,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Panier moyen (€) :",
+      "slideMonth": 14,
+      "slideYTD": 15,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Panier moyen Acquis / NC (€) :",
+      "slideMonth": 16,
+      "slideYTD": 17,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Taux de remise :",
+      "slideMonth": 18,
+      "slideYTD": 19,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Productivité Mensuelle Force de vente (K€) :",
+      "slideMonth": 20,
+      "slideYTD": 21,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Productivité Mensuelle des vendeurs par ancienneté (K€) :",
+      "slideMonth": 22,
+      "slideYTD": 23,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Activité Mensuelle des vendeurs :",
+      "slideMonth": 24,
+      "slideYTD": 25,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Activité Menuelle des Resp.Groupe",
+      "slideMonth": 26,
+      "slideYTD": 27,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Création de portefeuille & CA Potentiel (K€) :",
+      "slideMonth": 28,
+      "slideYTD": 29,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Chiffres d'affaires Technique - Annuity (K€) :",
+      "slideMonth": 30,
+      "slideYTD": 31,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Contrats VNB :",
+      "slideMonth": 32,
+      "slideYTD": 33,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Contrats VINB :",
+      "slideMonth": 34,
+      "slideYTD": 35,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Contrats VICT :",
+      "slideMonth": 36,
+      "slideYTD": 37,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Contrats IT - PC :",
+      "slideMonth": 38,
+      "slideYTD": 39,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "Contrats IT - Serveur :",
+      "slideMonth": 40,
+      "slideYTD": 41,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "MIF Vente sous contrat Moyen Mensuel :",
+      "slideMonth": 42,
+      "slideYTD": 43,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "title": "CAP (K€) :",
+      "slideMonth": 44,
+      "slideYTD": 45,
+      "textSize": 18,
+      "position": {
+        "x": 174,
+        "y": 246,
+        "width": 100,
+        "height": 100
+      }
+    }
+  ]
+}
